@@ -1,6 +1,6 @@
 ---
 title: What is Planes for?
-permalink: /planes-docs/what_is.html
+permalink: /planes_0.1.X_what_is.html
 toc: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Planes Home"
-permalink: /planes-docs/index.html
+permalink: /planes_0.1.X_index.html
 ---
 
 ## Follow our guidee

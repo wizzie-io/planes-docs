@@ -1,6 +1,6 @@
 ---
 title: What is Vizzual for?
-permalink: /planes-docs/vizzual_0.1.0_index.html
+permalink: /vizzual_0.1.0_index.html
 version: 0.1.0
 toc: false
 ---
