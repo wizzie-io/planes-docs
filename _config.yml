@@ -1,4 +1,4 @@
-repository: wizzie-io/planes-docs.github.io
+repository: wizzie-io/planes-docs
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -95,7 +95,7 @@ google_site_verification: 8G13iLMreJldVEWLkrZnzCNNoa4ywsYfzAoPydBJgPo
 
 title: Planes Project Documentation
 description: Planes Project Documentation
-url: https://planes-docs.github.io
+url: https://wizzie-io.github.io/planes-docs
 logo: /images/wizzie_logo.png
 lang: 'en-US'
 

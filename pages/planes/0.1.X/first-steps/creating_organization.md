@@ -1,6 +1,6 @@
 ---
 title: Creating an organization
-permalink: /planes_0.1.X_creating_organization.html
+permalink: /planes-docs/planes_0.1.X_creating_organization.html
 toc: false
 ---
 
