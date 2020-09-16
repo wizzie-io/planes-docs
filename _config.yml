@@ -96,6 +96,7 @@ google_site_verification: 8G13iLMreJldVEWLkrZnzCNNoa4ywsYfzAoPydBJgPo
 title: Planes Project Documentation
 description: Planes Project Documentation
 url: https://wizzie-io.github.io
+baseurl: /planes-docs
 logo: /images/wizzie_logo.png
 lang: 'en-US'
 
